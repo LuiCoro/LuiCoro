@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-**JavaScript**
-[JavaScript]
+<h2>JavaScript</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 <!--
 **LuiCoro/LuiCoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
