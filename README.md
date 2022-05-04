@@ -5,7 +5,10 @@
 <h2>Ayo, I'm Luis!</h2>
 
 <h3>About Me</h3>
-<p>I am always ready to learn and dive into new concepts. I love working on Front-End but I plan on mastering Back-End. Currently enrolled in BloomTech. I am a cat person and love my two kids Echo 🐈 &  Blu 🐈. Goals for 2022 is to learn and add on to the conepts I learned at school while making sure I understand what is needed to do and why its getting done that way. </p>
+<p>I am always ready to learn and dive into new concepts. I love working on Front-End but I plan on mastering Back-End. Currently enrolled in BloomTech. Looking forward to discovering career opportunities where I can contribute to full stack web development software solutions.
+
+ I am a cat person and love my two kids Echo 🐈 & Blu 🐈. Goals for 2022 is to learn and add on to the conepts I learned at school while making sure I understand what is needed to do and why its getting done that way.
+ </p>
 
 <h3> 📚 FrameWorks</h3>
 
